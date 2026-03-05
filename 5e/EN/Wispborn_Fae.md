@@ -2,7 +2,7 @@
 
 ------------------------------------------------------------------------
 
-## Table of Contents
+## Table of Content
 
 - [Summary](#summary)
 - [What's Known](#whats-known)
@@ -18,7 +18,7 @@
   - [Skills](#skills)
     - [Fey Sensitivity](#fey-sensitivity)
     - [Mana body](#mana-body)
-    - [Frail Strenght](#frail-strength)
+    - [Frail Strength](#frail-strength)
     - [Elemental Affinity](#elemental-affinity)
       - [Affinity Spell Learning](#affinity-spell-learning)
       - [Affinity Spell Slots](#affinity-spell-slots)
@@ -40,17 +40,27 @@
 
 ## Summary
 
-Wispborn Fae are beings formed from condensed, sentient **mana**. Before
-adopting humanoid shapes they drift as wisps—small, luminous orbs of fey
-energy that observe, learn, and sometimes play. Though they can appear
-humanoid for social reasons, their nature remains fundamentally **Fey**.
+Wispborn Fae — known among their own kind as **Syllae of the Wispergrove** — are sentient beings formed from condensed **mana**. Before gaining identity, they exist as drifting magical motes called **wisps**, luminous sparks of fey energy that wander through regions of intense magic.
 
-Typical measures
+Over decades or even centuries, a wisp slowly gathers memories, instincts, and personality. When its magical essence becomes stable enough, it undergoes a transformation known as **Condensation**, forming a permanent body and awakening as a **Wispborn**.
 
-- Average height: 8–16 inches (20–40 cm).
-- Lifespan: potentially millennia.
+Though they often adopt small humanoid or spirit-like forms to interact with other creatures, their bodies are not truly biological. They are manifestations of living magic — delicate, radiant, and deeply connected to the flows of arcane energy that shape the planes.
 
-[Table of Content](#table-of-contents)
+Most Wispborn originate from places where magical currents gather naturally, particularly the **Wispergrove**, a legendary Feywild forest where new wisps constantly emerge from the surrounding mana. From there they spread across the Feywild and occasionally into the Material Plane, drawn by powerful magic, ancient sites, or simple curiosity.
+
+Because of their innate sensitivity to magical forces, Wispborn have long served the Feywild as **observers, messengers, scholars, and guardians of arcane balance**. Many spend centuries exploring the nature of magic itself, following ley lines, studying magical phenomena, or protecting places where the boundaries between planes grow thin.
+
+A Wispborn's life eventually ends in **Dissolution**, when their magical essence returns to the ambient mana currents from which they formed. Among their people this is not considered death, but rather a peaceful return to the greater flow of magic. Some Fey scholars believe fragments of memory from dissolved Wispborn linger within the mana currents, subtly influencing the personalities of newly forming wisps.
+
+Though small in size, Wispborn are powerful manifestations of arcane life — curious, mystical, and forever tied to the living currents of magic that shape the cosmos.
+
+Typical measures:
+
+- **Average height:** 8–16 inches (20–40 cm)
+- **Creature Type:** Fey
+- **Lifespan:** potentially immortal
+
+[Table of Content](#table-of-content)
 
 ---
 
@@ -100,7 +110,9 @@ The life of a Wispborn typically follows four phases:
 3. **Awakened Life** – Centuries of exploration and experience.
 4. **Dissolution** – The Wispborn returns its mana to the magical currents.
 
-This cycle is not considered death among their people and rather it is viewed as **returning to the great flow of magic**.
+This cycle is not considered death among their people; rather, it is viewed as **returning to the great flow of magic**.
+
+Although Wispborn do not age or die of natural causes, many eventually feel a deep instinct that their time of experience is complete. When this moment comes, they willingly enter **Dissolution**, allowing their essence to disperse back into the ambient currents of mana.
 
 ### Cultural Beliefs
 
@@ -127,10 +139,11 @@ Legends claim they are born when:
 - Ancient magic stirs
 - The cosmos itself shifts
 
-Some cultures treat them as **prophets**, others as **harbingers of change**. In some rare cases all significant color of a wisp start converting onto a void colour this proccess is slow and its reazon is unknown but some theorize that the mana affinity of a wisp shifts or expands, increasing mana and there fore turning it void-like.
+Some cultures treat them as **prophets**, others as **harbingers of change**. In some rare cases, the colors of a Wisp slowly begin shifting toward a void-like hue.
+This transformation occurs gradually, and its cause remains unknown.
 
 
-[Table of Content](#table-of-contents)
+[Table of Content](#table-of-content)
 
 ---
 
@@ -184,13 +197,13 @@ You still require **sleep or trance normally**.
 #### Frail Strength
 Your body is delicate compared to larger creatures.
 
-You have **disadvantage on Strength checks and Strength saving throws made against creatures that are larger than you.**
+You have **disadvantage** on **Strength checks** and **Strength saving throws** when contesting a **creature that is larger than you**.
 
 #### Elemental Affinity
 
 Your magical nature resonates with elemental forces.
 
-When creating your character, choose **one elemental affinities** from the Elemental Affinity Table.
+When creating your character, choose **one elemental affinity** from the Elemental Affinity Table.
 
 Each affinity grants access to a unique list of spells. **Charisma** is your **spellcasting ability for these spells**.
 
@@ -229,7 +242,7 @@ These spell slots are **separate from your class spell slots**.
 
 You regain all expended **Affinity Spell Slots** when you finish a **long rest**.
 
-> The cantrip colums specifies how many affinity cantrips you know per level. It doesnt represnt cantrips spell slots since cantrips doesnt have spell slots.
+> The cantrip columns specifies how many affinity cantrips you know per level. It doesn't represent cantrips spell slots since cantrips doesn't have spell slots.
 
 | Character Level | Cantrip | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |-----------------|---------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
@@ -292,7 +305,7 @@ Your mana form can alter the scale of creatures and objects.
 
 Starting at **3rd level**, you can cast **Enlarge/Reduce** without expending a spell slot.
 
-You can use this feature **two times per long rest**.
+You can use this feature **twice per long rest**.
 
 Starting at **5th level**, you can use this feature **four times per long rest**.
 
@@ -333,6 +346,9 @@ within range.
 
 ### Mana Affinity Table
 
+Each affinity reflects the type of magical energy that resonates most strongly with a Wispborn's mana body.
+This affinity influences their aura, magical abilities, and the spells they may learn through the Elemental Affinity feature.
+
 Wispborn affinities are not limited to the classic four elements. The DM
 should pick affinities that fit the campaign's tone.
 
@@ -353,7 +369,7 @@ should pick affinities that fit the campaign's tone.
 | Tide             | cosmic rhythm                        | moonlit blue, turquoise                  |
 | V̷̡͒ơ̶͜ị̵̌d̸̲̍ | U̵̠͠n̴͈̓d̴̤͘e̵̮͘f̵̝̈́i̵̖̋n̴͈̆ē̵̟d̶͖͌ | obsidian black, void-purple, pitch black |
 
-[Table of Content](#table-of-contents)
+[Table of Content](#table-of-content)
 
 ---
 
@@ -506,7 +522,7 @@ Roll or choose:
 | 3   | Tiny crystal fragments orbiting the body |
 | 4   | Flickering elemental flames              |
 | 5   | Soft glowing runes                       |
-| 6   | Wispering motes of magic                |
+| 6   | Whispering motes of magic                |
 | 7   | Shifting colors like a prism             |
 | 8   | Glowing dust trailing behind movement    |
 | 9   | Echoing magical chimes                   |
@@ -564,7 +580,7 @@ Roll or choose:
 | 7    | I hide my real motives behind riddles and half-truths.                      |
 | 8    | I cling to what I know and resist necessary change, even when it hurts me.  |
 
-[Table of Content](#table-of-contents)
+[Table of Content](#table-of-content)
 
 ---
 
@@ -586,6 +602,6 @@ This appendix can help you so you dont have to create custom spells all the time
 - [Pollen Affinity](Spells/Pollen.md)
 - [Tide Affinity](Spells/Tide.md)
 
-[Table of Content](#table-of-contents)
+[Table of Content](#table-of-content)
 
 ---
