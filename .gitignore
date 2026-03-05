@@ -1,0 +1,70 @@
+# IDEs and Editors
+## VSCode
+.vscode/
+*.code-workspace
+
+## JetBrains (IntelliJ IDEA, WebStorm, Fleet, etc.)
+.idea/
+*.iml
+*.iws
+*.ipr
+*.swp
+*.swo
+*~
+
+## Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+## Vim
+.vim/
+*.swp
+*.swo
+*~
+.netrwhist
+
+## Emacs
+*~
+.#*
+\#*\#
+
+## OS-specific
+.DS_Store
+Thumbs.db
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+## Temporary and backup files
+*.tmp
+*.bak
+*.backup
+*.temp
+*~
+.~*
+
+## Node.js (if using any markdown processors/tools)
+node_modules/
+npm-debug.log
+yarn.lock
+package-lock.json
+
+## Python (if using any markdown processors/tools)
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+venv/
+
+## Log files
+*.log
+logs/
+
+## Build/Output directories
+dist/
+build/
+out/
+
