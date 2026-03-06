@@ -352,22 +352,22 @@ This affinity influences their aura, magical abilities, and the spells they may 
 Wispborn affinities are not limited to the classic four elements. The DM
 should pick affinities that fit the campaign's tone.
 
-| Affinity         | Themes                               | Wisp Accent Color                        |
-|------------------|--------------------------------------|------------------------------------------|
-| Air              | movement, sound, pressure            | sky blue, silver-white                   |
-| Fire             | transformation, destruction, passion | amber, red-orange                        |
-| Water            | adaptation, memory, flow             | deep blue, sea-green                     |
-| Earth            | resilience, stability                | moss green, umber brown                  |
-| Plants           | growth, symbiosis                    | leaf green, floral pink                  |
-| Lightning        | raw energy, impulse                  | electric yellow, violet                  |
-| Ice              | preservation, silence                | frost cyan, pale white                   |
-| Shadow           | concealment, mystery                 | indigo, smoke gray                       |
-| Crystal          | magical resonance                    | amethyst, prismatic teal                 |
-| Metal            | conductivity                         | steel gray, copper                       |
-| Steam            | transition                           | pearl gray, mist blue                    |
-| Pollen           | subtle influence                     | saffron, soft lavender                   |
-| Tide             | cosmic rhythm                        | moonlit blue, turquoise                  |
-| V̷̡͒ơ̶͜ị̵̌d̸̲̍ | U̵̠͠n̴͈̓d̴̤͘e̵̮͘f̵̝̈́i̵̖̋n̴͈̆ē̵̟d̶͖͌ | obsidian black, void-purple, pitch black |
+| Affinity  | Themes                               | Role                        | Wisp Accent Color                        |
+|-----------|--------------------------------------|-----------------------------|------------------------------------------|
+| Air       | movement, sound, pressure            | Damage + Mobility           | sky blue, silver-white                   |
+| Fire      | transformation, destruction, passion | Pure Damage + Inspiration   | amber, red-orange                        |
+| Water     | adaptation, memory, flow             | Support + Control           | deep blue, sea-green                     |
+| Earth     | resilience, stability                | Defense + Damage            | moss green, umber brown                  |
+| Plants    | growth, symbiosis                    | Control + Healing           | leaf green, floral pink                  |
+| Lightning | raw energy, impulse                  | Burst Damage + Reaction     | electric yellow, violet                  |
+| Ice       | preservation, silence                | Control + Defense           | frost cyan, pale white                   |
+| Shadow    | concealment, mystery                 | Stealth + Utility + Control | indigo, smoke gray                       |
+| Crystal   | magical resonance                    | Damage + Spell Defense      | amethyst, prismatic teal                 |
+| Metal     | conductivity                         | Damage + Defense            | steel gray, copper                       |
+| Steam     | transition                           | Damage + Phase Shift        | pearl gray, mist blue                    |
+| Pollen    | subtle influence                     | Debuff + Support            | saffron, soft lavender                   |
+| Tide      | cosmic rhythm                        | Damage + Healing Hybrid     | moonlit blue, turquoise                  |
+| V̷̡͒ơ̶͜ị̵̌d̸̲̍ | U̵̠͠n̴͈̓d̴̤͘e̵̮͘f̵̝̈́i̵̖̋n̴͈̆ē̵̟d̶͖͌ | Wildcard | obsidian black, void-purple, pitch black |
 
 [Table of Content](#table-of-content)
 
